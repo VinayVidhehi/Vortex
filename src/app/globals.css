@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Everyday Sans Web";
+  src: url("/fonts/EverydaySans-Regular-Web.woff2") format("woff2"),
+    url("/fonts/EverydaySans-Regular-Web.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+.esw {
+  font-family: "Everyday Sans Web";
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  font-family: "Everyday Sans Web";
+  font-weight: 100;
+}
+
+:root {
+  --background: #fffefb;
+  --foreground: #111;
+  --muted: 210 40% 96.1%;
+  --muted-foreground: 215.4 16.3% 46.9%;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #111;
+    --foreground: #eee;
+    --muted: 223 47% 11%;
+    --muted-foreground: 214, 3%, 54%;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+}
+
+h2 {
+  /* color: hsl(214, 3%, 54%); */
+}
