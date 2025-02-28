@@ -58,7 +58,7 @@ const Footer = () => {
                 <Link href="" className="font-light">
                   Instagram
                 </Link>
-                <Link href="" className="font-light">
+                <Link href="https://www.instagram.com/vortexmedia.ai/" className="font-light">
                   LinkedIn
                 </Link>
                 <Link href="" className="font-light">
