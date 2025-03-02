@@ -55,14 +55,14 @@ const Footer = () => {
             <div className="w-1/2 flex flex-col gap-4">
               <h3 className="text-gray-500 font-normal uppercase">Follow US</h3>
               <div className="flex flex-col gap-1.5 tracking-wide">
-                <Link href="" className="font-light">
+                <Link href="https://www.instagram.com/vortexmedia.ai" className="font-light">
                   Instagram
                 </Link>
-                <Link href="https://www.instagram.com/vortexmedia.ai/" className="font-light">
+                <Link href="/" className="font-light">
                   LinkedIn
                 </Link>
-                <Link href="" className="font-light">
-                  Github
+                <Link href="https://www.facebook.com/profile.php?id=61573174354636" className="font-light">
+                  Facebook
                 </Link>
               </div>
             </div>
