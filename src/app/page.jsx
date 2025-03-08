@@ -11,7 +11,7 @@ export default function Home() {
             <h1 className="font-bold text-4xl md:text-4xl">
               Where Creativity Meets Data-Driven Results
             </h1>
-            <p className="esw font-medium">An AI agency crafted for impact</p>
+            <p className="esw font-medium">An AI Marketing Agency crafted for impact</p>
             <div className="flex items-center gap-4">
               <button className="px-5 py-3 bg-foreground text-background esw text-sm rounded-md">
                 Explore work
