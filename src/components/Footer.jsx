@@ -15,7 +15,7 @@ const Footer = () => {
             <h2 className="font-bold text-4xl md:text-6xl">VORTEX</h2>
           </div>
           <div className="text-base md:text-lg tracking-wide flex flex-col md:flex-row md:items-center gap-1.5">
-            <h3>“ QUIT LOSING, ACT WISELY ”.</h3>
+            <h1>“ QUIT LOSING, ACT WISELY ”.</h3>
             <p>LET VORTEX DO THE WORK.</p>
           </div>
         </div>
