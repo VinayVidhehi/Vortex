@@ -14,9 +14,10 @@ const Footer = () => {
             />
             <h2 className="font-bold text-4xl md:text-6xl">VORTEX</h2>
           </div>
-          <div className="text-base md:text-lg tracking-wide flex flex-col md:flex-row md:items-center gap-1.5">
-            <h1>“ QUIT LOSING, ACT WISELY ”.</h3>
-            <p>LET VORTEX DO THE WORK.</p>
+          <br/>
+          <div className="text-base md:text-lg tracking-wide flex flex-col gap-1.5 ">
+            <h3 className="md:text-3xl">“ QUIT LOSING, ACT WISELY ”.</h3>
+            <p className="md:text-2xl">LET VORTEX DO THE WORK.</p>
           </div>
         </div>
         <div className="w-full flex flex-col gap-12 justify-between">
@@ -55,13 +56,19 @@ const Footer = () => {
             <div className="w-1/2 flex flex-col gap-4">
               <h3 className="text-gray-500 font-normal uppercase">Follow US</h3>
               <div className="flex flex-col gap-1.5 tracking-wide">
-                <Link href="https://www.instagram.com/vortexmedia.ai" className="font-light">
+                <Link
+                  href="https://www.instagram.com/vortexmedia.ai"
+                  className="font-light"
+                >
                   Instagram
                 </Link>
                 <Link href="/" className="font-light">
                   LinkedIn
                 </Link>
-                <Link href="https://www.facebook.com/profile.php?id=61573174354636" className="font-light">
+                <Link
+                  href="https://www.facebook.com/profile.php?id=61573174354636"
+                  className="font-light"
+                >
                   Facebook
                 </Link>
               </div>
