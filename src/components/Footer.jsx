@@ -27,7 +27,7 @@ const Footer = () => {
               </h3>
               <div className="flex flex-col gap-1.5 tracking-wide">
                 <Link href="" className="font-light">
-                  vortexprivatelimited@gmail.com
+                  info@thevortexmedia.com
                 </Link>
                 <Link href="" className="font-light">
                   91+ 7411571999
