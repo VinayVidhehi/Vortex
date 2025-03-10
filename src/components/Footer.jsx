@@ -16,8 +16,7 @@ const Footer = () => {
           </div>
           <br/>
           <div className="text-base md:text-lg tracking-wide flex flex-col gap-1.5 ">
-            <h3 className="md:text-3xl">“ QUIT LOSING, ACT WISELY ”.</h3>
-            <p className="md:text-2xl">LET VORTEX DO THE WORK.</p>
+            <h3 className="md:text-3xl">“ QUIT LOSING, ACT WISELY ”. LET VORTEX DO THE WORK.</h3>
           </div>
         </div>
         <div className="w-full flex flex-col gap-12 justify-between">
